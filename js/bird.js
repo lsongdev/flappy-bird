@@ -1,5 +1,5 @@
 import canvas, { ctx } from './canvas.js';
-import Movable from './Movable.js';
+import Movable from './movable.js';
 
 import {
   upImage,
